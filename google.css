@@ -3,25 +3,49 @@ body{
     align-items: center;
     align-content: center;
     text-align: center;
-    margin-top: 300px;
+    margin-top: 280px;
    
 }
 
-.gogel {
-   
-}
 
 #arama {
     margin-top: -40px;
-    width: 250px;
+    background-color: #202124;
+    width: 600px;
+    border-radius: 50px;
+    border-color: gray;
+    height: 45px;
+    margin-top: 10px;
+   
+    color: white;
 }
 
 #icon{
     height: 24px;
     width: 24px;
+    margin-left: -45px;
+    
+    
     
 }
 
-#zort{
-    background-color: #202124;
+
+#search{
+    color: white;
+    background-color: #303134;
+    border-radius: 5px;
+    height: 36px;
+    width: 126px;
+    margin-top: 30px;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+#lucky{
+    color: white;
+    background-color: #303134;
+    border-radius: 5px;
+    height: 36px;
+    width: 126px;
+    margin-top: 30px;
 }
