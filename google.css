@@ -1,0 +1,27 @@
+body{
+    background-color: #202124;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin-top: 300px;
+   
+}
+
+.gogel {
+   
+}
+
+#arama {
+    margin-top: -40px;
+    width: 250px;
+}
+
+#icon{
+    height: 24px;
+    width: 24px;
+    
+}
+
+#zort{
+    background-color: #202124;
+}
